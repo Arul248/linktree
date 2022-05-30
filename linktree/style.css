@@ -8,6 +8,7 @@ html {
 
 .container {
   max-width: 500px;
+  height: 100%;
   margin: 0 auto;
   background-color: #000;
   background-image: url(backgroound.jpg);
